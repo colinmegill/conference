@@ -1,0 +1,11 @@
+{
+  "name": "conference",
+  "version": "0.0.0",
+  "description": "g0v conference prototype app for pol.is integration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin",
+  "license": "BSD-2-Clause"
+}
